@@ -1,0 +1,9 @@
+ipykernel
+ipython
+torch==1.10.0
+ipython
+matplotlib==3.5.1
+pandas==1.4.0
+numpy==1.21.4
+pennylane==0.18.0
+torchvision==0.11.1

@@ -1,0 +1,76 @@
+{
+    "default": {
+      "batch_size": 4,
+      "image_size": 28,
+      "n_qubits": 5,
+      "patch_size": 14,
+      "n_ancillary_qubits": 1,
+      "n_generators": 56,
+      "q_depth": 6,
+      "lr_discriminator": 0.003,
+      "lr_generator": 0.1,
+      "num_iterations": 500
+    },
+    "5_qubit": {
+      "batch_size": 4,
+      "image_size": 28,
+      "n_qubits": 5,
+      "patch_size": 14,
+      "n_ancillary_qubits": 1,
+      "n_generators": 56,
+      "q_depth": 6,
+      "lr_discriminator": 0.005,
+      "lr_generator": 0.3,
+      "num_iterations": 500
+    },
+    "6_qubit": {
+      "batch_size": 4,
+      "image_size": 28,
+      "n_qubits": 6,
+      "patch_size": 28,
+      "n_ancillary_qubits": 1,
+      "n_generators": 28,
+      "q_depth": 8,
+      "lr_discriminator": 0.005,
+      "lr_generator": 0.3,
+      "num_iterations": 500
+    },
+    "7_qubit": {
+      "batch_size": 4,
+      "image_size": 28,
+      "n_qubits": 7,
+      "patch_size": 56,
+      "n_ancillary_qubits": 1,
+      "n_generators": 14,
+      "q_depth": 15,
+      "lr_discriminator": 0.005,
+      "lr_generator": 0.3,
+      "num_iterations": 500
+    },
+    "8_qubit": {
+      "batch_size": 4,
+      "image_size": 28,
+      "n_qubits": 8,
+      "patch_size": 112,
+      "n_ancillary_qubits": 1,
+      "n_generators": 7,
+      "q_depth": 24,
+      "lr_discriminator": 0.005,
+      "lr_generator": 0.3,
+      "num_iterations": 500
+    },
+    "9_qubit": {
+      "batch_size": 4,
+      "image_size": 28,
+      "n_qubits": 5,
+      "patch_size": 196,
+      "n_ancillary_qubits": 1,
+      "n_generators": 4,
+      "q_depth": 38,
+      "lr_discriminator": 0.005,
+      "lr_generator": 0.3,
+      "num_iterations": 500
+    } 
+    
+  }
+  
