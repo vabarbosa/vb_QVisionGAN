@@ -1,4 +1,4 @@
-# Quantum Vision GAN
+# Quantum Vision GAN: Quantum GAN for generating MNIST digits
 
 # Motivation
 
